@@ -8,3 +8,9 @@
 - Mensaje de error: [data-test="error"] - .error-message-container h3 (Subtitulo con el mensaje de error)
 
 ## Inventory Page
+
+## Git
+
+`git remote add origin git@github.com:FesalProgrammer/pre-entrega-final-test_saucedemo.git`
+`git branch -M main`
+`git push -u origin main`
