@@ -22,7 +22,7 @@ Validar la estabilidad y funcionalidad de los módulos principales de la aplicac
 
 ## Ejecucion de las pruebas
 
-o Comando para ejecutar las pruebas: py -m pytest
+- Comando para ejecutar las pruebas: py -m pytest
 
 ## Escenerarios Cubiertos
 
@@ -30,12 +30,12 @@ o Comando para ejecutar las pruebas: py -m pytest
 
 - Validación de Inventario (test_inventory):
 
--- Verificación de títulos de página.
+  -Verificación de títulos de página.
 
--- Confirmación de visibilidad de productos.
+  -Confirmación de visibilidad de productos.
 
--- Validación de elementos de UI (menú hamburguesa y filtro).
+  -Validación de elementos de UI (menú hamburguesa y filtro).
 
 - Gestión del Carrito (test_cart): Flujo completo de agregar un producto, verificar el incremento en el contador y validar que el ítem correcto aparezca en la vista del carrito.
 
-• Pytest automaticamente genera un reporte HTML con resultados de la ejecución.
+- Pytest automaticamente genera un reporte HTML con resultados de la ejecución.
