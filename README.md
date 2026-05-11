@@ -2,7 +2,7 @@
 
 # Proposito del proyecto:
 
-Validar la funcionalidad de los módulos principales de la aplicación WebPage www.saucedemo.com, asegurando que los usuarios puedan autenticarse, visualizar el catálogo de productos y gestionar el carrito de compras de manera correcta.
+Validar la funcionalidad de los módulos principales de la aplicación Swag Labs (`www.saucedemo.com`), asegurando que los usuarios puedan autenticarse, visualizar el catálogo de productos y gestionar el carrito de compras de manera correcta.
 
 ## Tecnologias usadas:
 
@@ -22,7 +22,7 @@ Validar la funcionalidad de los módulos principales de la aplicación WebPage w
 
 ## Ejecucion de las pruebas
 
-- Comando para ejecutar las pruebas: py -m pytest
+- Comando para ejecutar las pruebas: `py -m pytest -v`
 
 ## Escenerarios Cubiertos
 
@@ -38,4 +38,4 @@ Validar la funcionalidad de los módulos principales de la aplicación WebPage w
 
 - Gestión del Carrito (test_cart): Flujo completo de agregar un producto, verificar el incremento en el contador y validar que el ítem correcto aparezca en la vista del carrito.
 
-- Pytest genera de forma automatica un reporte HTML con resultados de la ejecución.
+- Se configura `pytest.ini` para que genere de forma automatica un reporte HTML con los resultados de la ejecución de pruebas.
