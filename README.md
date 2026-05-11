@@ -30,11 +30,11 @@ Validar la estabilidad y funcionalidad de los módulos principales de la aplicac
 
 - Validación de Inventario (test_inventory):
 
-  -Verificación de títulos de página.
+- Verificación de títulos de página.
 
-  -Confirmación de visibilidad de productos.
+- Confirmación de visibilidad de productos.
 
-  -Validación de elementos de UI (menú hamburguesa y filtro).
+- Validación de elementos de UI (menú hamburguesa y filtro).
 
 - Gestión del Carrito (test_cart): Flujo completo de agregar un producto, verificar el incremento en el contador y validar que el ítem correcto aparezca en la vista del carrito.
 
