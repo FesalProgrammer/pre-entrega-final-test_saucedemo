@@ -2,7 +2,7 @@
 
 # Proposito del proyecto:
 
-Validar la estabilidad y funcionalidad de los módulos principales de la aplicación Swag Labs, asegurando que los usuarios puedan autenticarse, visualizar el catálogo de productos y gestionar el carrito de compras de manera correcta.
+Validar la funcionalidad de los módulos principales de la aplicación WebPage www.saucedemo.com, asegurando que los usuarios puedan autenticarse, visualizar el catálogo de productos y gestionar el carrito de compras de manera correcta.
 
 ## Tecnologias usadas:
 
@@ -14,7 +14,7 @@ Validar la estabilidad y funcionalidad de los módulos principales de la aplicac
 
 ## Instalación del repositorio
 
-`git clone https://github.com/tu-usuario/nombre-del-repo.git`
+`https://github.com/FesalProgrammer/pre-entrega-final-test_saucedemo`
 
 ## Instalación de las dependencias
 
@@ -38,4 +38,4 @@ Validar la estabilidad y funcionalidad de los módulos principales de la aplicac
 
 - Gestión del Carrito (test_cart): Flujo completo de agregar un producto, verificar el incremento en el contador y validar que el ítem correcto aparezca en la vista del carrito.
 
-- Pytest automaticamente genera un reporte HTML con resultados de la ejecución.
+- Pytest genera de forma automatica un reporte HTML con resultados de la ejecución.
